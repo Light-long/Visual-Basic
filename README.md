@@ -26,7 +26,9 @@
 ### 对象方法的调用
 
     对象名.方法名 [参数]
-
+    
+    object.Move left,[top,[width,[height]]]
+    
     Form1.Move 1000,1000,2000,2000
 
     object.Print "Hello"
