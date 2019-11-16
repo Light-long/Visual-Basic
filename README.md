@@ -354,11 +354,11 @@ CInt()|int|CStr()|String
 ### 逻辑运算
 
 a|b|a And b|a Or b|Not a|a Eqv b|a Imp b|a Xor b|
-:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
-True|True|True|True|False|True|True|False
-True|False|False|True|False|False|False|True
-False|True|False|True|True|False|True|True
-False|False|False|False|True|True|True|False
+:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+True|True|True|True|False|True|True|False|
+True|False|False|True|False|False|False|True|
+False|True|False|True|True|False|True|True|
+False|False|False|False|True|True|True|False|
 
 > Eqv(等价):相同为True
 >
